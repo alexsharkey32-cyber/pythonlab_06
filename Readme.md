@@ -1,1 +1,0 @@
-Encapsulation and generalization helps make the drawing process easier by making it so we can use one term for multiple different shapes and and where to put those shapes all in one nice function making it easier and simpler to access these things.
